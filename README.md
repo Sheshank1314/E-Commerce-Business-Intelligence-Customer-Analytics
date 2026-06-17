@@ -251,15 +251,18 @@ This project demonstrates how Data Analytics can be used to:
 ```text
 E-Commerce-Business-Intelligence-Customer-Analytics
 │
-├── ECommerce_Customer_Analytics.ipynb
-├── README.md
-├── requirements.txt
+├── Notebooks
+│   └── E_Commerce_Business_Intelligence_Customer_Analytics.ipynb
 │
-├── outputs
+├── Outputs
+│   └── rfm_data.csv
+│
+├── Screenshots
 │   ├── executive_dashboard.png
 │   └── vip_customers.png
 │
-└── dataset
+├── README.md
+└── requirements.txt
 ```
 
 ---
